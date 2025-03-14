@@ -1,0 +1,58 @@
+{
+  "nextPageIndex": 3,
+  "notebooks": [
+    {
+      "name": "Assembler",
+      "color": "#b65d5d",
+      "icon": "book",
+      "pages": []
+    },
+    {
+      "name": "C",
+      "color": "#000000",
+      "icon": "book",
+      "pages": []
+    },
+    {
+      "name": "Python",
+      "color": "#428aae",
+      "icon": "book",
+      "pages": []
+    },
+    {
+      "name": "Operating system",
+      "color": "#51dc1e",
+      "icon": "book",
+      "pages": []
+    },
+    {
+      "name": "Algorithms",
+      "color": "#a84cc2",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "Algoritmos de Ordenación",
+          "fileName": "2.json",
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "name": "Cryptography",
+      "color": "#34c5b5",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "The Basics, Caesar Cipher.",
+          "fileName": "0.json",
+          "favorite": false
+        },
+        {
+          "title": "Introduciendo XOR",
+          "fileName": "1.json",
+          "favorite": false
+        }
+      ]
+    }
+  ]
+}
