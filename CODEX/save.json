@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 3,
+  "nextPageIndex": 6,
   "notebooks": [
     {
       "name": "Assembler",
@@ -17,13 +17,25 @@
       "name": "Python",
       "color": "#428aae",
       "icon": "book",
-      "pages": []
+      "pages": [
+        {
+          "title": "Publishing packets for PIP",
+          "fileName": "3.json",
+          "favorite": false
+        }
+      ]
     },
     {
       "name": "Operating system",
       "color": "#51dc1e",
       "icon": "book",
-      "pages": []
+      "pages": [
+        {
+          "title": "Multitasking",
+          "fileName": "4.json",
+          "favorite": false
+        }
+      ]
     },
     {
       "name": "Algorithms",
@@ -50,6 +62,18 @@
         {
           "title": "Introduciendo XOR",
           "fileName": "1.json",
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "name": "Crafting Interpreters",
+      "color": "#e1ff00",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "Lexical Analysis",
+          "fileName": "5.json",
           "favorite": false
         }
       ]
